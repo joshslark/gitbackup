@@ -1,0 +1,13 @@
+[autodisable]
+KeyboardActivityTimeoutMs=310
+
+[parameters]
+CircScrollDelta=6
+CoastingFriction=20
+CoastingSpeed=7
+HorizScrollDelta=3.3
+MaxTapMove=3.7
+TapAndDragGesture=false
+ThreeFingerTapButton=NoButton
+TwoFingerTapButton=RightButton
+VertScrollDelta=2.40000000000002
