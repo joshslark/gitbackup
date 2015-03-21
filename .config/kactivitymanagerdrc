@@ -1,0 +1,11 @@
+[activities]
+2258e88e-a63f-473b-9df9-2bfc073b456d=Default
+
+[activities-icons]
+2258e88e-a63f-473b-9df9-2bfc073b456d=preferences-activities
+9ec20ea5-3c19-4a73-870d-73a78a6a0631=preferences-activities
+ca5aeaa6-780a-4dbc-a1cd-09d16eed72f9=preferences-activities
+
+[main]
+currentActivity=2258e88e-a63f-473b-9df9-2bfc073b456d
+runningActivities=2258e88e-a63f-473b-9df9-2bfc073b456d
