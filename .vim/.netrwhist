@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home'
+let g:netrw_dirhist_2='/home/joshua/.oh-my-zsh/plugins'
+let g:netrw_dirhist_3='/home/joshua/builds/linux-ck/src/linux-3.19/scripts/kconfig'
+let g:netrw_dirhist_4='/home/joshua/cs370/cs370t4/mockup'
+let g:netrw_dirhist_5='/home/joshua/cs370/cs370t4'
+let g:netrw_dirhist_6='/home/joshua/cs370'

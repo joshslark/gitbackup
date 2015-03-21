@@ -7,6 +7,8 @@
 !Packages*
 !.gitignore
 !.oh-my-zsh
+!.vim
+!.vim/*
 
 #Ignore these specifically
 PlayOnLinux/
