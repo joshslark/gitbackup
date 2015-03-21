@@ -6,6 +6,7 @@
 !*rc
 !Packages*
 !.gitignore
+!.oh-my-zsh
 
 #Ignore these specifically
 PlayOnLinux/
